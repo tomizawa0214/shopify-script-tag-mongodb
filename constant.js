@@ -1,1 +1,1 @@
-export const APP_URl = 'https://shopifytopapp.herokuapp.com'
+export const APP_URl = 'https://shopify-mongodb-tomizawa.herokuapp.com'
