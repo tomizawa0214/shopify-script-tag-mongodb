@@ -1,4 +1,4 @@
-const APP_URl = 'https://shopifytopapp.herokuapp.com'
+// const APP_URl = 'https://shopifytopapp.herokuapp.com'
 
 const script = document.createElement('script')
 script.src = 'https://code.jquery.com/jquery-3.4.1.min.js'
@@ -48,7 +48,7 @@ function handler() {
     })
 
     const bestSellerButton = $('<img />')
-      .attr('src', `${APP_URl}/public/top.png`)
+      .attr('src', `${APP_URl}/top.png`)
       .css({
         position: 'fixed',
         width: '150px',
