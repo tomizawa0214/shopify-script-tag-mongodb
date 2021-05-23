@@ -48,7 +48,7 @@ function handler() {
     })
 
     const bestSellerButton = $('<img />')
-      .attr('src', `${APP_URl}/top.png`)
+      .attr('src', `${APP_URl}/public/top.png`)
       .css({
         position: 'fixed',
         width: '150px',
